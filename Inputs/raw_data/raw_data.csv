@@ -1,0 +1,801 @@
+group,business_hrs_change,employee_change,monthly_sales_change,profitability,favourite_number,subsidy,helpfulness_of_subsidy,effect_on_business,confidence
+Open,decrease,remain the same,-0.2154,operate at a loss,9.13,I do not know,1,4,2
+Open,decrease,decrease,-0.0684,break even,9.39,Yes,2,5,3
+Open,increase,decrease,-0.4647,break even,5.31,Yes,3,3,5
+Open,increase,decrease,-0.5569,break even,3.27,No,5,5,4
+Open,decrease,decrease,-0.323,operate at a loss,5.33,Yes,5,1,4
+Open,increase,decrease,0.0532,break even,3.69,No,4,2,4
+Open,remain the same,decrease,-0.1057,operate at a loss,7.91,Yes,5,3,5
+Open,decrease,decrease,0.3201,5%-10% profit,3.39,Yes,3,1,5
+Open,decrease,decrease,-0.501,operate at a loss,5.75,Yes,4,5,5
+Open,remain the same,decrease,-0.2235,operate at a loss,6.24,Yes,5,3,4
+Open,decrease,decrease,0.5143,5%-10% profit,3.48,Yes,2,4,4
+Open,decrease,increase,-0.2451,operate at a loss,6.7,Yes,1,2,2
+Open,remain the same,decrease,-0.0271,0-5% profit,3.5,Yes,5,5,2
+Open,decrease,decrease,-0.0376,break even,6.26,No,5,4,3
+Open,remain the same,remain the same,0.1527,break even,7.19,Yes,3,2,3
+Open,decrease,remain the same,-0.2362,operate at a loss,3.02,Yes,4,1,3
+Open,decrease,decrease,0.0513,operate at a loss,7.22,Yes,5,4,3
+Open,decrease,remain the same,-0.6866,operate at a loss,4.02,No,4,3,3
+Open,decrease,decrease,-0.438,break even,5.59,I do not know,3,4,3
+Open,increase,remain the same,-0.2306,break even,5.4,No,4,4,2
+Open,decrease,remain the same,-0.3975,break even,4.15,Yes,4,3,3
+Open,decrease,decrease,-0.1939,break even,5.54,Yes,4,3,3
+Open,decrease,decrease,-0.6789,operate at a loss,2.54,No,1,2,2
+Open,remain the same,decrease,-0.1162,operate at a loss,4.73,Yes,3,1,5
+Open,remain the same,remain the same,-0.3731,operate at a loss,6.65,Yes,1,2,1
+Open,remain the same,remain the same,-0.3657,5%-10% profit,0.65,Yes,5,4,3
+Open,decrease,remain the same,-0.2876,operate at a loss,2.02,Yes,4,2,2
+Open,remain the same,decrease,-0.3962,break even,2.68,Yes,5,2,4
+Open,remain the same,remain the same,-0.6816,break even,1.82,Yes,3,3,4
+Open,decrease,increase,-0.099,>10% profit,5.84,Yes,5,3,3
+Open,decrease,remain the same,-0.2433,operate at a loss,3.01,Yes,4,3,5
+Open,decrease,decrease,-1.0117,0-5% profit,0.67,Yes,4,5,2
+Open,remain the same,decrease,0.0269,operate at a loss,3.72,Yes,2,2,3
+Open,increase,decrease,-0.4229,operate at a loss,4.22,Yes,2,5,1
+Open,remain the same,decrease,-0.2011,operate at a loss,6.71,Yes,4,4,1
+Open,decrease,remain the same,-0.1769,>10% profit,2.79,Yes,1,4,3
+Open,increase,decrease,-0.513,break even,7.32,I do not know,5,5,4
+Open,decrease,remain the same,-0.6274,>10% profit,5.8,Yes,3,4,3
+Open,remain the same,decrease,0.1332,operate at a loss,5.72,No,3,2,3
+Open,decrease,remain the same,0.2309,operate at a loss,3.29,Yes,3,1,5
+Open,decrease,remain the same,-0.1004,operate at a loss,8.91,I do not know,5,4,2
+Open,decrease,remain the same,-0.2083,0-5% profit,4.67,Yes,4,1,5
+Open,decrease,remain the same,-0.2157,break even,1.35,No,5,4,2
+Open,decrease,remain the same,-0.1716,break even,4.59,Yes,4,4,4
+Open,remain the same,decrease,-0.3184,0-5% profit,1.13,No,4,4,3
+Open,remain the same,decrease,0.0121,break even,4.38,Yes,5,5,2
+Open,decrease,increase,-0.0765,break even,4.16,No,3,1,4
+Open,remain the same,remain the same,-0.3988,break even,6.36,Yes,3,2,4
+Open,remain the same,remain the same,-0.219,operate at a loss,7.02,Yes,3,4,5
+Open,remain the same,decrease,-0.2406,operate at a loss,3.55,Yes,5,3,4
+Open,decrease,remain the same,-0.2335,0-5% profit,6.61,Yes,4,4,4
+Open,decrease,decrease,0.0071,break even,7.85,Yes,3,5,2
+Open,remain the same,remain the same,-0.3787,>10% profit,3.43,Yes,1,2,3
+Open,remain the same,decrease,-0.0942,>10% profit,3.7,Yes,4,3,3
+Open,decrease,decrease,-0.2065,0-5% profit,6.3,Yes,5,2,2
+Open,decrease,decrease,-0.2587,break even,5.37,Yes,5,5,2
+Open,decrease,decrease,-0.0048,operate at a loss,6.1,Yes,4,5,2
+Open,decrease,remain the same,-0.2154,break even,7.81,Yes,4,2,4
+Open,remain the same,increase,-0.524,0-5% profit,5.77,No,4,3,1
+Open,remain the same,remain the same,-0.5709,5%-10% profit,7.1,Yes,4,2,1
+Open,remain the same,remain the same,-0.3356,5%-10% profit,6.25,No,3,5,4
+Open,decrease,decrease,-0.4291,0-5% profit,5.87,Yes,2,3,2
+Open,decrease,increase,-0.5598,operate at a loss,5.77,Yes,4,4,3
+Open,increase,decrease,-0.4146,operate at a loss,7.58,Yes,4,2,3
+Open,decrease,decrease,-0.7066,break even,3,Yes,4,3,4
+Open,decrease,remain the same,-0.3547,break even,2.79,Yes,3,5,2
+Open,decrease,decrease,-0.3416,operate at a loss,6.18,I do not know,3,4,4
+Open,remain the same,decrease,-0.3235,>10% profit,4.76,No,5,5,4
+Open,decrease,remain the same,-0.2558,operate at a loss,5.15,No,5,5,2
+Open,decrease,decrease,-0.1594,5%-10% profit,6.48,No,1,2,3
+Open,remain the same,remain the same,-0.3667,operate at a loss,6.51,No,4,2,4
+Open,decrease,decrease,-0.1754,0-5% profit,4.47,Yes,4,2,1
+Open,remain the same,decrease,-0.4882,0-5% profit,4.37,Yes,1,5,2
+Open,decrease,decrease,-0.0831,0-5% profit,5.15,Yes,5,3,3
+Open,remain the same,remain the same,-0.2282,0-5% profit,7.13,Yes,5,1,4
+Open,decrease,remain the same,-0.2773,operate at a loss,5.85,Yes,3,4,5
+Open,remain the same,decrease,-0.4194,5%-10% profit,7.87,Yes,2,2,2
+Open,remain the same,decrease,0.1747,break even,4.98,Yes,2,4,3
+Open,decrease,remain the same,-0.1535,0-5% profit,7.25,I do not know,5,4,4
+Open,remain the same,remain the same,-0.1883,operate at a loss,6.77,Yes,5,5,4
+Open,decrease,remain the same,-0.8967,operate at a loss,6.22,Yes,3,4,3
+Open,decrease,remain the same,-0.7408,operate at a loss,5.83,No,1,2,4
+Open,remain the same,decrease,-0.2653,operate at a loss,4.44,No,3,3,3
+Open,decrease,remain the same,-0.0262,0-5% profit,4.78,Yes,4,3,3
+Open,remain the same,remain the same,-0.257,5%-10% profit,5.46,Yes,3,3,4
+Open,decrease,remain the same,-0.4999,operate at a loss,5.1,Yes,2,2,1
+Open,remain the same,decrease,-0.2899,5%-10% profit,6.89,Yes,4,1,2
+Open,increase,increase,-0.3819,break even,4.78,Yes,4,4,4
+Open,decrease,remain the same,-0.196,break even,4.86,Yes,3,4,2
+Open,decrease,decrease,-0.4797,0-5% profit,4.03,I do not know,4,2,2
+Open,remain the same,remain the same,-0.4751,0-5% profit,4.72,No,1,4,3
+Open,decrease,increase,-0.1778,break even,4.86,Yes,5,4,4
+Open,remain the same,decrease,-0.0178,operate at a loss,0.37,Yes,4,3,4
+Open,increase,decrease,0.1683,>10% profit,2.27,Yes,5,4,4
+Open,decrease,decrease,-0.1786,operate at a loss,4.86,Yes,4,2,3
+Open,decrease,decrease,-0.3431,operate at a loss,4.47,Yes,4,2,4
+Open,remain the same,remain the same,-0.6085,0-5% profit,2.6,No,3,5,4
+Open,decrease,remain the same,-0.4711,0-5% profit,1.02,Yes,3,4,1
+Open,increase,remain the same,0.031,operate at a loss,4.29,No,4,4,5
+Open,decrease,remain the same,-0.4307,break even,6.31,No,5,3,5
+Open,decrease,remain the same,-0.1343,break even,8.55,Yes,1,2,2
+Open,remain the same,remain the same,-0.3281,operate at a loss,4.92,Yes,1,2,2
+Open,remain the same,decrease,-0.0379,>10% profit,7.99,Yes,3,3,2
+Open,decrease,decrease,-0.2713,0-5% profit,5.17,Yes,1,4,5
+Open,decrease,decrease,-0.4288,operate at a loss,5.23,Yes,3,5,2
+Open,decrease,remain the same,-0.4342,operate at a loss,5.65,Yes,5,1,3
+Open,decrease,increase,-0.2518,operate at a loss,3.26,Yes,5,5,3
+Open,decrease,remain the same,-0.0749,operate at a loss,4.9,Yes,3,5,2
+Open,decrease,remain the same,0.1566,operate at a loss,6.82,No,1,3,3
+Open,remain the same,remain the same,0.1562,operate at a loss,3.5,Yes,5,2,3
+Open,remain the same,remain the same,0.1047,0-5% profit,4.36,No,2,3,3
+Open,increase,remain the same,-0.4976,>10% profit,2.7,Yes,4,4,4
+Open,decrease,remain the same,-0.0967,break even,5.71,No,5,2,4
+Open,decrease,increase,-0.3722,break even,5.85,Yes,2,5,4
+Open,decrease,remain the same,-0.3556,operate at a loss,6.3,Yes,1,4,4
+Open,remain the same,decrease,-0.1992,break even,2.56,Yes,2,5,3
+Open,decrease,decrease,0.1238,operate at a loss,5.21,Yes,5,3,1
+Open,remain the same,decrease,-0.5713,break even,3.11,Yes,5,2,3
+Open,decrease,remain the same,0.2866,>10% profit,5,Yes,5,2,4
+Open,decrease,remain the same,-0.2907,0-5% profit,7.69,Yes,4,2,3
+Open,remain the same,decrease,-0.3808,0-5% profit,3.99,No,5,3,3
+Open,decrease,increase,-0.0391,operate at a loss,6.43,Yes,5,3,4
+Open,remain the same,remain the same,-0.3253,operate at a loss,3.5,Yes,5,3,2
+Open,decrease,remain the same,0.022,5%-10% profit,4.04,No,3,4,4
+Open,decrease,decrease,-0.2398,0-5% profit,5.88,Yes,3,3,4
+Open,decrease,decrease,-0.1784,0-5% profit,3.64,Yes,5,2,2
+Open,decrease,remain the same,-0.251,operate at a loss,1.59,Yes,5,4,4
+Open,remain the same,decrease,-0.0783,operate at a loss,7.53,Yes,5,1,3
+Open,remain the same,decrease,-0.2862,break even,5.72,No,5,4,4
+Open,increase,remain the same,-0.403,break even,3.83,Yes,1,2,2
+Open,decrease,remain the same,-0.0924,operate at a loss,1.01,Yes,5,3,2
+Open,increase,remain the same,-0.5482,0-5% profit,8.8,Yes,1,4,4
+Open,decrease,decrease,-0.0413,operate at a loss,11.78,Yes,3,3,3
+Open,increase,remain the same,-0.1007,0-5% profit,5.41,Yes,4,1,4
+Open,remain the same,decrease,-0.5452,0-5% profit,6.7,Yes,4,5,3
+Open,decrease,remain the same,-0.0831,5%-10% profit,7.45,No,3,3,3
+Open,remain the same,remain the same,-0.4695,0-5% profit,3.6,Yes,4,5,2
+Open,decrease,decrease,0.0244,operate at a loss,4.3,No,4,2,4
+Open,remain the same,remain the same,-0.5228,operate at a loss,1.55,Yes,5,3,3
+Open,decrease,remain the same,-0.2732,5%-10% profit,3.53,Yes,1,5,4
+Open,remain the same,increase,-0.6274,operate at a loss,6.24,No,3,2,3
+Open,remain the same,decrease,-0.316,5%-10% profit,4.42,Yes,3,3,2
+Open,decrease,remain the same,-0.1003,break even,4.57,Yes,5,3,2
+Open,remain the same,remain the same,0.5761,break even,4.77,Yes,4,2,5
+Open,decrease,remain the same,-0.0132,5%-10% profit,1.27,No,1,2,4
+Open,remain the same,decrease,-0.5539,operate at a loss,6.68,Yes,5,3,4
+Open,decrease,increase,-0.027,operate at a loss,2.11,Yes,4,2,2
+Open,remain the same,decrease,-0.6654,operate at a loss,4.58,Yes,2,3,3
+Open,increase,decrease,-0.3009,operate at a loss,4.12,Yes,5,2,4
+Open,decrease,decrease,-0.0107,0-5% profit,4.56,Yes,4,5,4
+Open,remain the same,decrease,-0.8182,break even,7.92,Yes,1,5,4
+Open,remain the same,decrease,-0.0688,break even,3.84,No,5,5,2
+Open,decrease,decrease,-0.0287,0-5% profit,3.43,Yes,4,4,3
+Open,decrease,decrease,-0.4597,>10% profit,1.96,Yes,4,3,3
+Open,decrease,decrease,-0.2893,break even,3.39,Yes,5,5,5
+Open,remain the same,decrease,0.3143,0-5% profit,2.67,Yes,4,5,4
+Open,remain the same,remain the same,-0.4342,operate at a loss,5.82,No,5,2,2
+Open,remain the same,decrease,-0.2144,operate at a loss,3.27,Yes,2,5,4
+Open,remain the same,increase,-0.2918,operate at a loss,5.61,No,3,2,4
+Open,remain the same,decrease,-0.1887,operate at a loss,4.71,Yes,5,4,4
+Open,remain the same,decrease,0.1782,operate at a loss,2.13,Yes,5,4,5
+Open,remain the same,increase,-0.4407,operate at a loss,3.42,Yes,5,3,2
+Open,decrease,remain the same,-0.3005,operate at a loss,6.77,No,1,3,3
+Open,decrease,decrease,-0.3261,break even,6.81,Yes,1,5,2
+Open,increase,decrease,-0.4682,0-5% profit,9.01,Yes,5,2,2
+Open,remain the same,decrease,-0.8027,operate at a loss,4.99,No,1,4,2
+Open,decrease,remain the same,-0.2924,>10% profit,2.01,No,5,4,1
+Open,remain the same,decrease,-0.7997,0-5% profit,3.46,Yes,2,4,4
+Open,remain the same,remain the same,-0.3015,operate at a loss,5.82,Yes,5,4,3
+Open,decrease,decrease,-0.4432,operate at a loss,8.8,No,1,5,4
+Open,remain the same,increase,-0.1226,operate at a loss,5.22,Yes,5,2,4
+Open,remain the same,remain the same,-0.3042,break even,7.28,No,4,2,2
+Open,remain the same,remain the same,-0.4186,0-5% profit,6.54,No,3,3,2
+Open,remain the same,decrease,-0.4332,operate at a loss,2.66,Yes,5,4,3
+Open,increase,remain the same,-0.2648,break even,4.66,No,5,4,3
+Open,remain the same,decrease,-0.0624,>10% profit,7.61,Yes,3,2,3
+Open,decrease,remain the same,-0.2168,operate at a loss,6.75,No,4,4,4
+Open,increase,decrease,-0.3977,break even,5.93,Yes,2,4,5
+Open,remain the same,remain the same,-0.2968,0-5% profit,5.95,Yes,4,2,2
+Open,decrease,decrease,0.2445,break even,4.02,Yes,1,4,4
+Open,decrease,decrease,-0.5875,>10% profit,2.36,Yes,5,4,3
+Open,remain the same,remain the same,-0.3161,operate at a loss,7.59,Yes,5,4,5
+Open,decrease,increase,-0.368,>10% profit,2.16,No,4,5,4
+Open,remain the same,decrease,-0.3923,0-5% profit,3.12,Yes,3,5,3
+Open,remain the same,decrease,0.3332,break even,6.26,Yes,5,4,2
+Open,remain the same,decrease,-0.3723,operate at a loss,2.48,Yes,3,2,4
+Open,decrease,decrease,-0.4423,break even,3.9,No,5,3,4
+Open,remain the same,remain the same,-0.4915,operate at a loss,2.63,No,4,2,3
+Open,decrease,increase,0.067,break even,6.24,Yes,1,4,4
+Open,decrease,remain the same,0.0258,0-5% profit,5.89,Yes,5,5,2
+Open,remain the same,increase,-0.7306,operate at a loss,5.84,No,1,4,2
+Open,increase,remain the same,-0.3405,operate at a loss,5.88,Yes,3,4,3
+Open,remain the same,decrease,-0.0844,0-5% profit,6.11,Yes,2,4,4
+Open,remain the same,decrease,-0.2916,operate at a loss,6.28,Yes,5,4,4
+Open,decrease,decrease,-0.2512,0-5% profit,1.06,Yes,1,2,3
+Open,increase,decrease,-0.5952,>10% profit,4.7,Yes,3,4,3
+Open,decrease,decrease,-0.5641,0-5% profit,5.22,Yes,5,3,4
+Open,decrease,decrease,-0.1687,operate at a loss,6.45,I do not know,2,3,4
+Open,remain the same,remain the same,-0.3193,break even,2.63,Yes,1,3,5
+Open,remain the same,decrease,-0.3473,0-5% profit,4,No,1,1,3
+Open,decrease,remain the same,0.0526,operate at a loss,2.85,Yes,5,4,1
+Open,remain the same,remain the same,-0.1913,0-5% profit,7.11,No,5,5,2
+Open,decrease,remain the same,-0.6087,0-5% profit,7.56,Yes,2,4,5
+Open,decrease,decrease,-0.4804,operate at a loss,6.58,Yes,2,4,3
+Open,remain the same,remain the same,-0.3855,0-5% profit,2.56,No,5,3,1
+Open,decrease,decrease,-0.5378,0-5% profit,5.9,Yes,5,2,2
+Open,decrease,decrease,-0.0206,operate at a loss,7.3,Yes,3,4,4
+Open,decrease,remain the same,-0.6717,0-5% profit,5.34,Yes,5,4,2
+Open,remain the same,decrease,-0.534,5%-10% profit,3.87,Yes,5,4,1
+Open,decrease,remain the same,-0.2691,5%-10% profit,2.83,Yes,1,4,2
+Open,remain the same,remain the same,-0.0965,0-5% profit,3.67,I do not know,5,5,2
+Open,decrease,decrease,0.3193,0-5% profit,6.43,Yes,2,2,2
+Open,decrease,remain the same,-0.3177,break even,4.14,Yes,5,2,4
+Open,remain the same,decrease,-0.3494,break even,5.46,Yes,4,5,4
+Open,decrease,decrease,-0.4354,operate at a loss,7.59,Yes,5,4,3
+Open,decrease,decrease,-0.7449,0-5% profit,6.16,Yes,3,3,3
+Open,increase,decrease,-0.0697,0-5% profit,7.73,Yes,4,3,1
+Open,remain the same,decrease,0.01,0-5% profit,1.6,Yes,5,4,1
+Open,remain the same,decrease,-0.4724,operate at a loss,4.44,Yes,4,3,2
+Open,remain the same,remain the same,0.0611,operate at a loss,5.13,No,4,2,3
+Open,remain the same,decrease,-0.2474,break even,6.16,Yes,1,4,3
+Open,increase,remain the same,-0.1507,operate at a loss,2.66,Yes,4,2,2
+Open,decrease,remain the same,0.0593,0-5% profit,6.61,Yes,1,4,5
+Open,increase,remain the same,-0.4128,break even,5.61,Yes,4,5,3
+Open,remain the same,decrease,-0.0421,operate at a loss,5.53,Yes,2,3,4
+Open,remain the same,decrease,-0.0124,operate at a loss,6.02,Yes,3,4,2
+Open,decrease,decrease,0.1466,0-5% profit,4.77,Yes,4,5,5
+Open,decrease,remain the same,0.1384,operate at a loss,6.85,Yes,1,5,3
+Open,decrease,remain the same,0.0371,operate at a loss,6.3,Yes,4,2,4
+Open,decrease,decrease,-0.5708,break even,4.7,Yes,4,2,4
+Open,remain the same,remain the same,-0.1026,operate at a loss,7.08,I do not know,4,3,4
+Open,decrease,decrease,-0.3246,operate at a loss,5.59,Yes,4,4,3
+Open,decrease,remain the same,-0.2366,break even,6.34,I do not know,2,2,3
+Open,remain the same,decrease,0.0503,break even,3.81,Yes,1,3,3
+Open,remain the same,decrease,-0.0534,operate at a loss,8.16,Yes,4,5,5
+Open,decrease,remain the same,-0.6961,operate at a loss,4.99,Yes,4,3,3
+Open,remain the same,decrease,-0.159,break even,6.7,Yes,5,3,4
+Open,decrease,remain the same,-0.3133,0-5% profit,4.8,No,5,5,3
+Open,decrease,decrease,-0.3195,operate at a loss,4.44,No,3,2,4
+Open,increase,decrease,-0.391,>10% profit,6.57,Yes,3,4,2
+Open,remain the same,remain the same,-0.213,operate at a loss,1.83,No,5,4,2
+Open,remain the same,remain the same,-0.0851,operate at a loss,5.96,Yes,5,5,4
+Open,decrease,decrease,-0.1493,operate at a loss,5.79,No,4,3,4
+Open,remain the same,remain the same,-0.1648,5%-10% profit,-0.39,Yes,5,3,5
+Open,remain the same,decrease,-0.3921,operate at a loss,5.74,Yes,5,3,4
+Open,remain the same,decrease,-0.2255,0-5% profit,0.66,Yes,1,2,1
+Open,decrease,remain the same,-0.3607,5%-10% profit,6.32,I do not know,4,2,2
+Open,decrease,remain the same,-0.7019,break even,4.09,Yes,1,4,1
+Open,remain the same,decrease,-0.1887,break even,3.61,Yes,3,2,2
+Open,remain the same,remain the same,0.1683,operate at a loss,4.99,Yes,5,3,3
+Open,decrease,decrease,-0.5958,break even,7.75,No,4,3,3
+Open,decrease,decrease,0.0374,5%-10% profit,3.73,Yes,2,3,4
+Open,remain the same,decrease,0.0016,operate at a loss,6.12,Yes,3,4,5
+Open,remain the same,decrease,-0.1519,operate at a loss,5.68,Yes,4,4,3
+Open,increase,remain the same,-0.4715,>10% profit,2.64,Yes,4,4,3
+Open,decrease,increase,-0.5929,operate at a loss,1.52,Yes,4,3,5
+Open,remain the same,remain the same,0.1303,0-5% profit,1.01,Yes,5,2,2
+Open,remain the same,remain the same,-0.1071,operate at a loss,6.1,Yes,2,3,2
+Open,remain the same,remain the same,-0.19,>10% profit,4.93,Yes,5,5,3
+Open,increase,remain the same,-0.1766,5%-10% profit,8.7,Yes,4,4,4
+Open,decrease,remain the same,-0.6311,5%-10% profit,6.15,No,4,4,5
+Open,remain the same,decrease,0.0358,break even,6.7,I do not know,5,2,4
+Open,decrease,remain the same,0.151,0-5% profit,7.67,Yes,1,3,5
+Open,remain the same,decrease,-0.2421,operate at a loss,4,Yes,4,5,3
+Open,remain the same,decrease,-0.5569,operate at a loss,6.02,Yes,5,2,3
+Open,decrease,remain the same,-0.3281,>10% profit,6.74,Yes,3,3,2
+Open,remain the same,remain the same,-0.3712,>10% profit,7.74,Yes,4,4,3
+Open,decrease,decrease,-0.057,break even,6.53,Yes,5,4,5
+Open,decrease,decrease,-0.1499,0-5% profit,5.84,Yes,4,3,5
+Open,increase,decrease,-0.463,operate at a loss,3.26,Yes,2,3,2
+Open,decrease,decrease,-0.2835,operate at a loss,6.46,Yes,5,3,3
+Open,remain the same,remain the same,0.1326,break even,6,Yes,5,5,4
+Open,decrease,remain the same,-0.1859,operate at a loss,6.27,Yes,3,4,2
+Open,decrease,decrease,-0.0311,operate at a loss,5.85,Yes,4,4,4
+Open,remain the same,increase,0.0113,>10% profit,4.6,Yes,4,5,4
+Open,decrease,remain the same,0.2162,0-5% profit,4.85,Yes,4,4,4
+Open,decrease,remain the same,-0.8879,5%-10% profit,6.37,Yes,1,5,2
+Open,decrease,remain the same,-0.8803,break even,5.34,Yes,1,4,2
+Open,remain the same,remain the same,-0.0551,operate at a loss,3.34,Yes,5,5,4
+Open,remain the same,remain the same,-0.3338,0-5% profit,4.42,Yes,4,5,2
+Open,decrease,remain the same,-0.0176,operate at a loss,2.36,Yes,5,5,2
+Open,decrease,remain the same,-0.1718,operate at a loss,3.07,Yes,4,3,2
+Open,decrease,decrease,-0.2501,5%-10% profit,4.71,Yes,5,3,1
+Open,remain the same,decrease,-0.3127,operate at a loss,1.4,Yes,3,5,4
+Open,remain the same,decrease,0.1301,operate at a loss,1.62,No,5,3,4
+Open,remain the same,decrease,-0.7733,operate at a loss,7.21,Yes,5,5,1
+Open,remain the same,decrease,-0.2526,operate at a loss,3.85,Yes,3,2,5
+Open,increase,decrease,0.3528,operate at a loss,1.3,Yes,4,2,3
+Open,remain the same,decrease,-0.3492,operate at a loss,4.77,Yes,4,2,3
+Open,remain the same,decrease,0.0832,5%-10% profit,7.64,No,2,3,1
+Open,decrease,remain the same,-0.161,>10% profit,6.32,No,3,3,4
+Open,decrease,decrease,-0.1859,5%-10% profit,5.88,Yes,3,3,2
+Open,decrease,decrease,-0.2765,break even,7.37,Yes,3,3,3
+Open,decrease,decrease,-0.4148,break even,3.46,Yes,5,2,5
+Open,remain the same,remain the same,-0.2676,operate at a loss,6.46,Yes,2,4,2
+Open,remain the same,decrease,-0.4016,operate at a loss,3.83,Yes,3,5,2
+Open,decrease,remain the same,-0.178,5%-10% profit,5,No,2,5,4
+Open,decrease,decrease,-0.6189,operate at a loss,9.43,No,5,3,3
+Open,remain the same,decrease,-0.3341,break even,6.94,Yes,2,4,3
+Open,decrease,decrease,0.0048,break even,6.54,Yes,5,5,4
+Open,decrease,remain the same,-0.7025,operate at a loss,2.78,Yes,4,3,5
+Open,decrease,remain the same,-0.0053,break even,3.43,Yes,2,5,4
+Open,decrease,increase,-0.3585,operate at a loss,9.57,Yes,5,3,2
+Open,remain the same,remain the same,0.1837,break even,2.81,I do not know,5,3,3
+Open,decrease,decrease,-0.2436,break even,5.43,Yes,3,4,3
+Open,decrease,decrease,0.0047,operate at a loss,6.79,Yes,5,4,2
+Open,remain the same,remain the same,-0.1401,5%-10% profit,7.04,Yes,2,2,4
+Open,decrease,remain the same,-0.6612,operate at a loss,7.18,Yes,1,3,3
+Open,remain the same,decrease,-0.1979,break even,4.67,Yes,5,4,4
+Open,remain the same,remain the same,-0.2384,5%-10% profit,3.36,Yes,5,4,3
+Open,decrease,remain the same,-0.1884,operate at a loss,4.39,I do not know,3,5,2
+Open,decrease,remain the same,-0.1265,operate at a loss,3.2,No,2,2,3
+Open,decrease,remain the same,-0.2714,5%-10% profit,6.25,No,5,4,4
+Open,remain the same,increase,-0.2819,break even,7.24,Yes,4,2,3
+Open,remain the same,increase,-0.901,5%-10% profit,9.25,Yes,4,4,4
+Open,remain the same,remain the same,-0.3092,break even,5.73,Yes,3,2,4
+Open,remain the same,decrease,0.0311,5%-10% profit,3.25,Yes,4,4,2
+Open,decrease,remain the same,0.0458,operate at a loss,7.05,No,3,2,4
+Open,decrease,decrease,0.0455,break even,6.81,Yes,4,2,1
+Open,decrease,decrease,-0.0654,0-5% profit,4.52,No,5,3,5
+Open,decrease,decrease,-0.2495,operate at a loss,1.88,No,5,4,5
+Open,increase,decrease,-0.4533,break even,6.52,Yes,4,3,3
+Open,decrease,decrease,-0.3699,0-5% profit,7.26,Yes,4,4,3
+Open,decrease,increase,-0.3706,5%-10% profit,4.41,Yes,4,4,3
+Open,remain the same,decrease,-0.0578,operate at a loss,6.07,Yes,5,2,4
+Open,remain the same,remain the same,-0.2615,break even,4.45,Yes,1,4,4
+Open,remain the same,decrease,-0.06,operate at a loss,6.36,No,5,4,3
+Open,remain the same,decrease,-0.7906,operate at a loss,4.77,Yes,4,3,3
+Open,remain the same,remain the same,-0.4308,break even,4.31,Yes,5,3,2
+Open,remain the same,decrease,-0.3843,break even,5.22,Yes,3,3,4
+Open,remain the same,decrease,0.0127,0-5% profit,4.43,Yes,4,2,3
+Open,remain the same,decrease,-0.6165,operate at a loss,3.82,Yes,4,1,4
+Open,decrease,increase,-0.1998,0-5% profit,4.37,Yes,4,5,3
+Open,decrease,remain the same,-0.3563,operate at a loss,4.98,No,4,1,4
+Open,remain the same,decrease,0.1357,break even,5.41,No,2,2,5
+Open,remain the same,remain the same,-0.1248,0-5% profit,8.06,Yes,1,2,5
+Open,increase,remain the same,0.0275,break even,2.28,Yes,3,1,4
+Open,decrease,remain the same,-0.4403,operate at a loss,4.6,Yes,4,4,3
+Open,decrease,remain the same,0.0518,0-5% profit,6.26,Yes,3,2,2
+Open,remain the same,remain the same,-0.1381,break even,8.52,Yes,4,4,4
+Open,increase,remain the same,-0.0239,operate at a loss,5.85,Yes,5,3,2
+Open,decrease,remain the same,-0.3332,break even,4.97,Yes,3,5,5
+Open,decrease,decrease,0.13,operate at a loss,4.38,Yes,3,4,1
+Open,increase,decrease,-0.523,operate at a loss,5.83,Yes,4,4,2
+Open,decrease,remain the same,-0.3479,break even,6.98,Yes,5,4,4
+Open,decrease,decrease,-0.5171,operate at a loss,4.63,Yes,1,5,2
+Open,remain the same,remain the same,-0.4222,operate at a loss,5.33,Yes,1,3,3
+Open,decrease,decrease,-0.0531,break even,5.43,Yes,5,2,3
+Open,remain the same,decrease,-0.3186,0-5% profit,6.46,Yes,4,5,4
+Open,remain the same,increase,-0.1853,0-5% profit,7.22,Yes,1,4,3
+Open,decrease,decrease,0.3396,operate at a loss,5.56,Yes,5,3,3
+Open,remain the same,decrease,-0.0928,operate at a loss,4.85,Yes,4,3,3
+Open,increase,remain the same,-0.2135,5%-10% profit,7.79,I do not know,4,2,5
+Open,decrease,remain the same,-0.0167,5%-10% profit,5.33,No,1,2,2
+Open,decrease,decrease,-0.2275,5%-10% profit,8.16,Yes,4,4,3
+Open,decrease,decrease,-0.4002,break even,4.88,No,5,4,2
+Open,decrease,increase,0.0338,operate at a loss,6.23,Yes,2,3,3
+Open,remain the same,remain the same,-0.2181,5%-10% profit,1.91,Yes,2,3,1
+Open,decrease,remain the same,-0.0984,5%-10% profit,4.78,No,2,2,2
+Open,decrease,increase,-0.1773,operate at a loss,4.96,Yes,2,3,3
+Open,remain the same,remain the same,-0.209,operate at a loss,3.48,No,5,3,4
+Open,decrease,decrease,-0.168,break even,2.93,Yes,5,5,4
+Open,decrease,decrease,-0.5975,operate at a loss,6.9,Yes,2,3,5
+Open,remain the same,remain the same,-0.1281,break even,6.83,Yes,5,2,3
+Open,decrease,remain the same,-0.5135,break even,2.4,Yes,5,4,1
+Open,remain the same,decrease,-0.2585,0-5% profit,5.85,No,4,3,1
+Open,decrease,decrease,-0.2506,0-5% profit,2.77,Yes,3,2,3
+Open,remain the same,decrease,-0.3275,operate at a loss,2.9,Yes,2,3,3
+Open,decrease,decrease,-0.6112,0-5% profit,6.05,I do not know,5,3,2
+Open,decrease,decrease,0.1908,break even,3.63,I do not know,5,4,5
+Open,decrease,decrease,-0.2895,operate at a loss,6.99,Yes,4,3,1
+Open,remain the same,decrease,-0.6944,operate at a loss,5.08,No,4,5,3
+Open,remain the same,remain the same,-0.4976,operate at a loss,6.07,Yes,4,4,2
+Open,increase,decrease,-0.0343,operate at a loss,3.95,Yes,1,3,3
+Open,remain the same,decrease,-0.0776,break even,2.7,No,1,4,3
+Open,remain the same,increase,-0.3891,break even,6.83,Yes,5,2,4
+Open,remain the same,decrease,-0.1412,0-5% profit,5.48,Yes,5,4,2
+Open,decrease,decrease,-0.0051,operate at a loss,4.52,No,2,2,3
+Open,decrease,remain the same,-0.1497,5%-10% profit,5.14,Yes,1,4,2
+Open,decrease,increase,-0.4127,break even,7.65,No,3,4,1
+Open,decrease,decrease,-0.0706,operate at a loss,3.6,Yes,5,3,4
+Open,remain the same,remain the same,-0.4047,operate at a loss,3.5,Yes,5,3,2
+Open,remain the same,remain the same,-0.2662,0-5% profit,3.76,Yes,4,3,2
+Open,decrease,decrease,-0.0609,0-5% profit,1.83,Yes,5,1,2
+Open,remain the same,decrease,-0.5036,break even,6.64,Yes,5,2,5
+Open,decrease,remain the same,-0.423,5%-10% profit,5.38,Yes,3,3,2
+Open,remain the same,decrease,-0.4493,break even,5.41,Yes,5,5,5
+Open,remain the same,decrease,-0.3399,operate at a loss,4.91,Yes,4,3,1
+Open,decrease,remain the same,-0.6754,break even,3.98,Yes,3,2,3
+Open,decrease,remain the same,-0.2067,operate at a loss,3.35,I do not know,1,5,2
+Open,decrease,remain the same,0.0412,operate at a loss,6.7,Yes,3,5,3
+Open,decrease,decrease,-0.2234,5%-10% profit,2.15,I do not know,5,4,4
+Open,increase,decrease,-0.1551,break even,5.88,Yes,5,4,3
+Open,increase,remain the same,-0.3658,operate at a loss,3.41,Yes,5,3,4
+Open,remain the same,remain the same,-0.4711,5%-10% profit,5.56,No,5,3,3
+Open,decrease,remain the same,-0.2756,operate at a loss,3.52,Yes,2,5,4
+Open,decrease,decrease,-0.4558,operate at a loss,3.95,Yes,5,5,2
+Shutdoown,decrease,decrease,-0.4809,operate at a loss,5.59,No,3,2,2
+Shutdoown,decrease,decrease,0.0503,<5% profit,5.4,No,3,4,2
+Shutdoown,decrease,decrease,-0.4964,operate at a loss,4.15,Yes,2,5,3
+Shutdoown,decrease,decrease,-0.3395,operate at a loss,5.54,No,2,3,1
+Shutdoown,decrease,decrease,-0.3471,operate at a loss,2.54,Yes,3,4,2
+Shutdoown,decrease,decrease,-0.21,>10% profit,4.73,No,3,2,4
+Shutdoown,decrease,decrease,-0.49,operate at a loss,6.65,Yes,4,5,3
+Shutdoown,decrease,remain the same,-0.283,>10% profit,0.65,Yes,5,3,1
+Shutdoown,remain the same,decrease,-0.8143,operate at a loss,2.02,Yes,2,3,2
+Shutdoown,decrease,decrease,-0.6353,operate at a loss,2.68,No,2,3,5
+Shutdoown,decrease,decrease,-0.486,operate at a loss,1.82,No,2,4,3
+Shutdoown,decrease,decrease,-0.6062,operate at a loss,5.84,No,4,4,1
+Shutdoown,decrease,decrease,-0.4596,operate at a loss,3.01,No,4,2,2
+Shutdoown,increase,decrease,-0.8088,operate at a loss,0.67,No,3,4,2
+Shutdoown,decrease,decrease,-0.4037,<5% profit,3.72,No,3,1,2
+Shutdoown,decrease,decrease,-0.5887,operate at a loss,4.22,No,1,5,2
+Shutdoown,decrease,decrease,-0.5833,operate at a loss,6.71,Yes,2,4,1
+Shutdoown,decrease,increase,-0.5271,operate at a loss,2.79,No,2,5,1
+Shutdoown,decrease,decrease,-0.6053,operate at a loss,7.32,I do not know,1,5,2
+Shutdoown,decrease,decrease,-0.8108,operate at a loss,5.8,No,3,2,4
+Shutdoown,decrease,decrease,-0.3913,<5% profit,5.72,No,3,5,3
+Shutdoown,remain the same,decrease,-0.4952,operate at a loss,3.29,No,4,4,2
+Shutdoown,decrease,decrease,-1.0485,5%-10% profit,8.91,No,5,4,3
+Shutdoown,decrease,decrease,-0.3006,5%-10% profit,4.67,No,5,4,3
+Shutdoown,decrease,decrease,-0.6245,<5% profit,1.35,Yes,3,4,1
+Shutdoown,decrease,decrease,-0.4648,operate at a loss,4.59,No,3,3,2
+Shutdoown,remain the same,decrease,-0.4474,operate at a loss,1.13,Yes,4,1,2
+Shutdoown,increase,decrease,-0.6893,operate at a loss,4.38,Yes,1,5,2
+Shutdoown,decrease,decrease,-0.7717,<5% profit,4.16,No,4,5,1
+Shutdoown,decrease,decrease,-0.2241,5%-10% profit,6.36,Yes,2,4,2
+Shutdoown,increase,decrease,-0.1537,5%-10% profit,7.02,I do not know,4,5,2
+Shutdoown,decrease,decrease,-0.3923,break even,3.55,Yes,5,5,4
+Shutdoown,decrease,decrease,-0.47,operate at a loss,6.61,Yes,2,4,5
+Shutdoown,decrease,decrease,-0.4753,operate at a loss,7.85,No,2,5,5
+Shutdoown,decrease,increase,-0.4435,operate at a loss,3.43,No,4,3,3
+Shutdoown,decrease,decrease,-0.5492,operate at a loss,3.7,No,3,3,3
+Shutdoown,decrease,decrease,-0.3113,operate at a loss,6.3,Yes,1,3,3
+Shutdoown,decrease,decrease,-0.3751,5%-10% profit,5.37,Yes,3,5,5
+Shutdoown,decrease,decrease,-0.6071,operate at a loss,6.1,Yes,3,5,3
+Shutdoown,decrease,decrease,-0.4777,5%-10% profit,7.81,No,3,4,2
+Shutdoown,decrease,remain the same,-0.4932,operate at a loss,5.77,Yes,3,4,1
+Shutdoown,remain the same,decrease,-0.4881,operate at a loss,7.1,I do not know,2,3,3
+Shutdoown,decrease,decrease,-0.3149,<5% profit,6.25,No,4,4,1
+Shutdoown,remain the same,decrease,-0.5927,<5% profit,5.87,Yes,4,5,1
+Shutdoown,decrease,decrease,-0.3878,operate at a loss,5.77,Yes,2,2,2
+Shutdoown,decrease,decrease,-0.4687,operate at a loss,7.58,Yes,3,1,2
+Shutdoown,decrease,increase,-0.5063,break even,3,Yes,1,2,2
+Shutdoown,decrease,decrease,-0.3235,operate at a loss,2.79,Yes,1,2,2
+Shutdoown,decrease,decrease,-0.4751,break even,6.18,No,4,4,2
+Shutdoown,decrease,decrease,-0.6973,operate at a loss,4.76,Yes,1,3,1
+Shutdoown,decrease,remain the same,-0.7311,operate at a loss,5.15,No,4,4,4
+Shutdoown,decrease,decrease,-0.5617,operate at a loss,6.48,No,3,5,1
+Shutdoown,remain the same,decrease,-0.629,operate at a loss,6.51,Yes,3,3,2
+Shutdoown,remain the same,remain the same,-0.7231,break even,4.47,Yes,4,2,1
+Shutdoown,decrease,decrease,-0.6185,5%-10% profit,4.37,No,1,5,1
+Shutdoown,decrease,decrease,-0.8287,operate at a loss,5.15,Yes,3,2,2
+Shutdoown,decrease,decrease,-0.5753,5%-10% profit,7.13,Yes,5,4,3
+Shutdoown,increase,decrease,-0.5659,operate at a loss,5.85,Yes,2,3,2
+Shutdoown,decrease,decrease,-0.5529,operate at a loss,7.87,Yes,3,3,2
+Shutdoown,decrease,decrease,-0.5042,operate at a loss,4.98,No,5,3,3
+Shutdoown,decrease,decrease,-0.4348,<5% profit,7.25,No,1,4,2
+Shutdoown,decrease,decrease,-0.584,operate at a loss,6.77,Yes,5,4,1
+Shutdoown,decrease,decrease,-0.4463,operate at a loss,6.22,No,3,4,2
+Shutdoown,decrease,decrease,-0.6715,>10% profit,5.83,Yes,3,5,3
+Shutdoown,decrease,decrease,-0.3798,operate at a loss,4.44,No,3,4,3
+Shutdoown,decrease,decrease,-0.4843,operate at a loss,4.78,Yes,3,4,2
+Shutdoown,remain the same,decrease,-0.5197,operate at a loss,5.46,Yes,3,5,1
+Shutdoown,decrease,decrease,-0.6219,<5% profit,5.1,Yes,3,1,2
+Shutdoown,remain the same,remain the same,-0.1942,operate at a loss,6.89,Yes,3,5,1
+Shutdoown,decrease,decrease,-0.4306,operate at a loss,4.78,Yes,4,4,1
+Shutdoown,remain the same,decrease,-0.4556,operate at a loss,4.86,Yes,4,4,3
+Shutdoown,decrease,decrease,-0.9656,operate at a loss,4.03,Yes,3,5,2
+Shutdoown,decrease,remain the same,-0.8534,>10% profit,4.72,No,3,4,2
+Shutdoown,decrease,decrease,-0.511,operate at a loss,4.86,Yes,3,1,2
+Shutdoown,decrease,decrease,-0.3389,operate at a loss,0.37,Yes,3,3,2
+Shutdoown,decrease,remain the same,-0.5051,operate at a loss,2.27,No,1,4,3
+Shutdoown,decrease,decrease,-0.68,operate at a loss,4.86,Yes,3,2,3
+Shutdoown,decrease,decrease,-0.5287,operate at a loss,4.47,Yes,1,3,5
+Shutdoown,remain the same,decrease,-0.595,operate at a loss,2.6,Yes,4,4,2
+Shutdoown,decrease,remain the same,-0.4611,operate at a loss,1.02,No,3,2,2
+Shutdoown,decrease,decrease,-0.6654,<5% profit,4.29,No,3,3,3
+Shutdoown,remain the same,decrease,-0.6621,>10% profit,6.31,No,4,4,1
+Shutdoown,decrease,decrease,-0.4481,operate at a loss,8.55,No,2,4,2
+Shutdoown,decrease,decrease,-0.3328,operate at a loss,4.92,No,2,4,2
+Shutdoown,decrease,decrease,-0.1989,operate at a loss,7.99,Yes,3,3,2
+Shutdoown,decrease,decrease,-0.4486,operate at a loss,5.17,No,1,4,3
+Shutdoown,remain the same,decrease,-0.5671,operate at a loss,5.23,Yes,4,4,1
+Shutdoown,increase,decrease,-0.7581,operate at a loss,5.65,No,4,4,1
+Shutdoown,decrease,remain the same,-0.6592,>10% profit,3.26,Yes,3,4,5
+Shutdoown,decrease,decrease,-0.2976,operate at a loss,4.9,No,2,2,2
+Shutdoown,decrease,decrease,-0.6301,<5% profit,6.82,No,1,2,3
+Shutdoown,decrease,decrease,-0.4167,operate at a loss,3.5,Yes,3,2,2
+Shutdoown,increase,decrease,-0.5563,operate at a loss,4.36,No,2,5,2
+Shutdoown,decrease,decrease,-0.3473,break even,2.7,Yes,5,4,2
+Shutdoown,decrease,remain the same,-0.5154,break even,5.71,Yes,3,2,5
+Shutdoown,decrease,decrease,-0.6288,<5% profit,5.85,No,3,2,3
+Shutdoown,remain the same,remain the same,-0.6326,operate at a loss,6.3,No,1,3,1
+Shutdoown,decrease,decrease,-0.5013,operate at a loss,2.56,Yes,3,3,3
+Shutdoown,decrease,decrease,-0.3739,operate at a loss,5.21,No,2,4,3
+Shutdoown,decrease,decrease,-0.2072,operate at a loss,3.11,Yes,2,5,3
+Shutdoown,decrease,decrease,-0.2076,operate at a loss,5,No,3,5,4
+Shutdoown,decrease,remain the same,-0.2446,<5% profit,7.69,No,2,4,2
+Shutdoown,decrease,remain the same,-0.6783,operate at a loss,3.99,Yes,3,4,1
+Shutdoown,decrease,decrease,-0.3896,<5% profit,6.43,No,5,2,2
+Shutdoown,decrease,decrease,-0.588,break even,3.5,Yes,4,3,2
+Shutdoown,remain the same,decrease,-0.5761,5%-10% profit,4.04,No,3,5,3
+Shutdoown,decrease,remain the same,-0.4634,operate at a loss,5.88,Yes,3,5,3
+Shutdoown,decrease,decrease,-0.2309,operate at a loss,3.64,Yes,3,5,1
+Shutdoown,decrease,decrease,-0.7314,operate at a loss,1.59,No,1,5,1
+Shutdoown,remain the same,increase,-0.1136,break even,7.53,No,1,2,1
+Shutdoown,decrease,decrease,-0.5293,operate at a loss,5.72,No,3,3,2
+Shutdoown,decrease,decrease,-0.5942,break even,3.83,Yes,1,3,5
+Shutdoown,decrease,decrease,-0.3482,operate at a loss,1.01,No,3,4,3
+Shutdoown,decrease,decrease,-0.5542,operate at a loss,8.8,No,5,5,2
+Shutdoown,remain the same,remain the same,-0.3042,5%-10% profit,11.78,No,3,5,1
+Shutdoown,decrease,decrease,-0.4926,operate at a loss,5.41,No,1,3,5
+Shutdoown,remain the same,decrease,-0.4484,operate at a loss,6.7,Yes,3,5,2
+Shutdoown,decrease,remain the same,-0.5007,operate at a loss,7.45,No,2,5,2
+Shutdoown,decrease,decrease,-0.3764,operate at a loss,3.6,No,4,4,3
+Shutdoown,decrease,decrease,-0.526,operate at a loss,4.3,Yes,3,5,2
+Shutdoown,decrease,decrease,-0.6102,operate at a loss,1.55,Yes,3,5,2
+Shutdoown,decrease,decrease,-0.3865,operate at a loss,3.53,No,4,5,1
+Shutdoown,decrease,decrease,-0.7147,break even,6.24,Yes,3,2,2
+Shutdoown,remain the same,decrease,-0.3497,>10% profit,4.42,No,5,2,3
+Shutdoown,decrease,remain the same,-0.3925,operate at a loss,4.57,No,2,5,3
+Shutdoown,increase,decrease,-0.7125,<5% profit,4.77,Yes,1,4,1
+Shutdoown,decrease,decrease,-0.3799,operate at a loss,1.27,No,3,4,2
+Shutdoown,remain the same,decrease,-0.6581,operate at a loss,6.68,Yes,3,3,2
+Shutdoown,decrease,increase,-0.3025,operate at a loss,2.11,No,2,5,1
+Shutdoown,decrease,decrease,-0.6964,operate at a loss,4.58,Yes,4,2,1
+Shutdoown,remain the same,decrease,-0.5167,operate at a loss,4.12,Yes,3,5,2
+Shutdoown,decrease,remain the same,-0.7717,operate at a loss,4.56,No,4,5,2
+Shutdoown,decrease,remain the same,-0.5475,operate at a loss,7.92,Yes,3,5,5
+Shutdoown,decrease,decrease,-0.3922,operate at a loss,3.84,No,2,5,2
+Shutdoown,remain the same,increase,0.0948,<5% profit,3.43,No,1,4,4
+Shutdoown,decrease,decrease,-0.3295,operate at a loss,1.96,No,3,5,3
+Shutdoown,decrease,decrease,-0.7188,>10% profit,3.39,No,1,4,5
+Shutdoown,remain the same,decrease,-0.3394,operate at a loss,2.67,Yes,4,4,1
+Shutdoown,decrease,decrease,-0.7991,operate at a loss,5.82,No,5,4,4
+Shutdoown,remain the same,decrease,-0.5367,operate at a loss,3.27,No,3,1,3
+Shutdoown,decrease,decrease,-0.3277,operate at a loss,5.61,Yes,1,5,2
+Shutdoown,remain the same,decrease,-0.9091,operate at a loss,4.71,Yes,4,2,3
+Shutdoown,increase,decrease,-0.3695,break even,2.13,No,3,5,4
+Shutdoown,decrease,decrease,-0.3406,operate at a loss,3.42,Yes,5,5,3
+Shutdoown,remain the same,decrease,-0.651,operate at a loss,6.77,Yes,1,4,3
+Shutdoown,remain the same,decrease,-0.5283,>10% profit,6.81,No,1,3,3
+Shutdoown,decrease,increase,-0.0937,operate at a loss,9.01,No,3,5,2
+Shutdoown,decrease,decrease,-0.6326,operate at a loss,4.99,No,3,5,2
+Shutdoown,decrease,decrease,-0.4744,<5% profit,2.01,Yes,5,5,1
+Shutdoown,decrease,increase,-0.5301,operate at a loss,3.46,I do not know,5,5,1
+Shutdoown,remain the same,decrease,-0.4559,>10% profit,5.82,Yes,3,2,4
+Shutdoown,decrease,decrease,-0.1917,operate at a loss,8.8,No,3,3,4
+Shutdoown,decrease,decrease,-0.6373,>10% profit,5.22,Yes,4,4,3
+Shutdoown,decrease,decrease,-0.5363,<5% profit,7.28,No,3,2,2
+Shutdoown,decrease,decrease,-0.5548,operate at a loss,6.54,No,3,5,1
+Shutdoown,decrease,decrease,-0.6571,operate at a loss,2.66,No,1,4,3
+Shutdoown,decrease,decrease,-0.898,operate at a loss,4.66,No,3,4,5
+Shutdoown,decrease,decrease,-0.5305,operate at a loss,7.61,Yes,5,5,1
+Shutdoown,remain the same,remain the same,-0.8958,operate at a loss,6.75,Yes,3,4,2
+Shutdoown,remain the same,decrease,-0.5371,break even,5.93,Yes,2,3,3
+Shutdoown,decrease,decrease,-0.6391,operate at a loss,5.95,Yes,3,5,5
+Shutdoown,decrease,decrease,-0.4083,operate at a loss,4.02,Yes,4,3,1
+Shutdoown,decrease,decrease,-0.539,break even,2.36,I do not know,2,5,2
+Shutdoown,decrease,decrease,-0.6214,operate at a loss,7.59,Yes,3,3,2
+Shutdoown,remain the same,decrease,-0.6319,<5% profit,2.16,Yes,2,4,2
+Shutdoown,decrease,decrease,-0.5107,>10% profit,3.12,No,2,5,1
+Shutdoown,remain the same,remain the same,-0.3649,operate at a loss,6.26,No,1,3,1
+Shutdoown,decrease,decrease,-0.4761,operate at a loss,2.48,Yes,2,2,1
+Shutdoown,remain the same,decrease,-0.6063,operate at a loss,3.9,Yes,1,4,5
+Shutdoown,decrease,decrease,-0.5337,<5% profit,2.63,Yes,3,3,1
+Shutdoown,decrease,remain the same,-0.1439,operate at a loss,6.24,Yes,5,4,2
+Shutdoown,remain the same,decrease,-0.743,break even,5.89,No,4,5,1
+Shutdoown,decrease,decrease,-0.5476,<5% profit,5.84,No,3,3,2
+Shutdoown,decrease,decrease,-0.5849,operate at a loss,5.88,No,1,4,3
+Shutdoown,decrease,decrease,-0.6025,<5% profit,6.11,No,2,3,3
+Shutdoown,decrease,decrease,-0.0801,operate at a loss,6.28,No,3,4,2
+Shutdoown,decrease,remain the same,-0.588,operate at a loss,1.06,Yes,2,4,2
+Shutdoown,remain the same,decrease,-0.6384,operate at a loss,4.7,Yes,2,2,5
+Shutdoown,remain the same,remain the same,-0.6739,5%-10% profit,5.22,Yes,5,3,2
+Shutdoown,remain the same,decrease,-0.2718,break even,6.45,Yes,1,5,4
+Shutdoown,decrease,decrease,-0.3014,<5% profit,2.63,Yes,2,5,3
+Shutdoown,remain the same,decrease,-0.846,operate at a loss,4,Yes,3,2,4
+Shutdoown,decrease,decrease,-0.5652,operate at a loss,2.85,I do not know,3,4,3
+Shutdoown,decrease,decrease,-0.3808,operate at a loss,7.11,Yes,3,4,2
+Shutdoown,decrease,decrease,-0.53,operate at a loss,7.56,I do not know,4,4,1
+Shutdoown,increase,decrease,-0.5009,break even,6.58,Yes,4,3,2
+Shutdoown,decrease,decrease,-0.7486,<5% profit,2.56,Yes,3,4,5
+Shutdoown,decrease,decrease,-0.7262,<5% profit,5.9,No,3,5,1
+Shutdoown,decrease,decrease,-0.4415,operate at a loss,7.3,Yes,2,3,2
+Shutdoown,increase,remain the same,-0.54990000000000006,operate at a loss,5.34,No,3,4,5
+Shutdoown,decrease,decrease,-0.57,operate at a loss,3.87,No,3,4,3
+Shutdoown,decrease,decrease,-0.2821,operate at a loss,2.83,No,1,4,3
+Shutdoown,remain the same,decrease,-0.4577,<5% profit,3.67,No,3,5,1
+Shutdoown,decrease,decrease,-0.7582,operate at a loss,6.43,Yes,1,5,2
+Shutdoown,decrease,decrease,-0.6659,operate at a loss,4.14,No,4,5,5
+Shutdoown,remain the same,decrease,-0.5976,operate at a loss,5.46,Yes,3,4,2
+Shutdoown,decrease,decrease,-0.7072,operate at a loss,7.59,Yes,2,3,5
+Shutdoown,decrease,remain the same,-0.3348,operate at a loss,6.16,No,5,4,1
+Shutdoown,decrease,remain the same,-0.8036,operate at a loss,7.73,I do not know,4,2,1
+Shutdoown,decrease,decrease,-0.7045,operate at a loss,1.6,No,2,5,3
+Shutdoown,decrease,decrease,-0.5137,operate at a loss,4.44,Yes,2,5,1
+Shutdoown,decrease,decrease,-0.3895,operate at a loss,5.13,Yes,2,4,5
+Shutdoown,remain the same,decrease,-0.0901,operate at a loss,6.16,No,3,4,5
+Shutdoown,decrease,decrease,-0.5487,operate at a loss,2.66,No,5,2,3
+Shutdoown,remain the same,decrease,-0.5716,operate at a loss,6.61,No,3,3,1
+Shutdoown,decrease,decrease,-0.6335,operate at a loss,5.61,No,2,4,2
+Shutdoown,decrease,decrease,-0.8563,operate at a loss,5.53,Yes,2,5,3
+Shutdoown,decrease,decrease,-0.3702,break even,6.02,Yes,3,5,2
+Shutdoown,decrease,decrease,-0.3128,operate at a loss,4.77,Yes,1,4,2
+Shutdoown,decrease,decrease,-0.6601,>10% profit,6.85,No,3,4,2
+Shutdoown,increase,decrease,-0.276,operate at a loss,6.3,Yes,3,4,3
+Shutdoown,decrease,decrease,-0.4982,operate at a loss,4.7,Yes,4,2,3
+Shutdoown,remain the same,decrease,-0.4285,operate at a loss,7.08,No,2,5,2
+Shutdoown,remain the same,decrease,-0.2773,break even,5.59,I do not know,3,5,3
+Shutdoown,remain the same,decrease,-0.6172,operate at a loss,6.34,No,3,3,3
+Shutdoown,increase,decrease,-0.3503,<5% profit,3.81,Yes,5,5,3
+Shutdoown,decrease,decrease,-0.3289,break even,8.16,No,3,2,4
+Shutdoown,remain the same,decrease,-0.2144,operate at a loss,4.99,No,3,5,2
+Shutdoown,remain the same,remain the same,-0.2204,operate at a loss,6.7,No,4,2,2
+Shutdoown,remain the same,decrease,-0.2933,operate at a loss,4.8,No,2,2,4
+Shutdoown,decrease,decrease,-0.731,operate at a loss,4.44,Yes,2,2,5
+Shutdoown,decrease,decrease,-0.3939,5%-10% profit,6.57,Yes,2,4,1
+Shutdoown,decrease,decrease,-0.5537,operate at a loss,1.83,Yes,1,4,1
+Shutdoown,decrease,decrease,-0.4903,operate at a loss,5.96,Yes,1,2,4
+Shutdoown,remain the same,decrease,-0.2838,>10% profit,5.79,No,3,4,2
+Shutdoown,decrease,decrease,-0.3584,operate at a loss,-0.39,Yes,2,2,3
+Shutdoown,decrease,decrease,-0.8212,operate at a loss,5.74,Yes,3,3,1
+Shutdoown,remain the same,decrease,-0.4345,operate at a loss,0.66,Yes,2,4,5
+Shutdoown,remain the same,decrease,-0.5456,>10% profit,6.32,Yes,3,3,3
+Shutdoown,decrease,decrease,-0.55,5%-10% profit,4.09,Yes,4,4,3
+Shutdoown,decrease,decrease,-0.6015,break even,3.61,Yes,3,4,2
+Shutdoown,decrease,decrease,-0.4734,operate at a loss,4.99,Yes,3,4,1
+Shutdoown,decrease,decrease,-0.3813,<5% profit,7.75,Yes,4,4,1
+Shutdoown,increase,decrease,-0.4275,operate at a loss,3.73,No,2,3,2
+Shutdoown,remain the same,remain the same,-0.4386,operate at a loss,6.12,No,2,5,5
+Shutdoown,remain the same,decrease,-0.6023,>10% profit,5.68,Yes,5,2,2
+Shutdoown,decrease,decrease,-0.4824,>10% profit,2.64,No,4,2,3
+Shutdoown,decrease,decrease,-0.5797,operate at a loss,1.52,No,4,4,1
+Shutdoown,remain the same,decrease,-0.8254,<5% profit,1.01,Yes,4,5,1
+Shutdoown,remain the same,decrease,-0.4559,operate at a loss,6.1,Yes,3,2,3
+Shutdoown,decrease,decrease,-0.1989,operate at a loss,4.93,No,5,4,2
+Shutdoown,decrease,decrease,-0.749,operate at a loss,8.7,No,4,2,1
+Shutdoown,decrease,remain the same,-0.2931,operate at a loss,6.15,No,5,4,2
+Shutdoown,decrease,increase,-0.3188,operate at a loss,6.7,Yes,3,4,1
+Shutdoown,decrease,decrease,-0.4293,>10% profit,7.67,Yes,5,5,3
+Shutdoown,decrease,remain the same,-0.6595,operate at a loss,4,Yes,3,5,1
+Shutdoown,decrease,remain the same,-0.7469,break even,6.02,Yes,3,3,2
+Shutdoown,remain the same,decrease,-0.2262,operate at a loss,6.74,Yes,5,4,2
+Shutdoown,remain the same,decrease,-0.3971,operate at a loss,7.74,No,3,5,2
+Shutdoown,decrease,decrease,-0.4568,operate at a loss,6.53,No,3,5,2
+Shutdoown,decrease,decrease,-0.4472,operate at a loss,5.84,Yes,4,2,3
+Shutdoown,decrease,decrease,-0.7744,operate at a loss,3.26,No,3,3,2
+Shutdoown,remain the same,decrease,-0.2942,break even,6.46,Yes,5,5,4
+Shutdoown,remain the same,decrease,-0.2113,operate at a loss,6,Yes,1,3,5
+Shutdoown,decrease,decrease,-0.4943,operate at a loss,6.27,No,3,5,5
+Shutdoown,decrease,decrease,-0.721,operate at a loss,5.85,I do not know,3,3,1
+Shutdoown,decrease,decrease,-0.5562,operate at a loss,4.6,Yes,4,5,2
+Shutdoown,remain the same,decrease,-0.5873,operate at a loss,4.85,No,5,3,1
+Shutdoown,remain the same,decrease,-0.361,operate at a loss,6.37,Yes,3,4,2
+Shutdoown,decrease,decrease,-0.4279,5%-10% profit,5.34,Yes,2,4,2
+Shutdoown,decrease,decrease,-0.6533,5%-10% profit,3.34,Yes,3,5,1
+Shutdoown,decrease,decrease,-0.5241,5%-10% profit,4.42,Yes,4,4,1
+Shutdoown,decrease,increase,-0.2246,operate at a loss,2.36,I do not know,3,5,3
+Shutdoown,remain the same,decrease,-0.4538,operate at a loss,3.07,No,4,5,2
+Shutdoown,decrease,decrease,-0.3424,operate at a loss,4.71,No,3,3,1
+Shutdoown,decrease,remain the same,-0.3118,operate at a loss,1.4,No,3,5,2
+Shutdoown,decrease,remain the same,-0.1644,break even,1.62,Yes,3,5,1
+Shutdoown,decrease,remain the same,-0.9593,operate at a loss,7.21,Yes,3,4,2
+Shutdoown,decrease,decrease,-0.9538,operate at a loss,3.85,Yes,2,4,5
+Shutdoown,decrease,decrease,-0.3597,operate at a loss,1.3,No,3,4,5
+Shutdoown,decrease,decrease,-0.5604,operate at a loss,4.77,Yes,3,3,2
+Shutdoown,decrease,decrease,-0.3326,operate at a loss,7.64,No,1,1,1
+Shutdoown,decrease,decrease,-0.4437,operate at a loss,6.32,No,3,2,3
+Shutdoown,remain the same,decrease,-0.5,operate at a loss,5.88,No,2,1,2
+Shutdoown,decrease,decrease,-0.5451,operate at a loss,7.37,No,3,3,3
+Shutdoown,decrease,decrease,-0.2264,operate at a loss,3.46,Yes,4,3,5
+Shutdoown,decrease,decrease,-0.8768,5%-10% profit,6.46,Yes,2,1,4
+Shutdoown,decrease,decrease,-0.5019,operate at a loss,3.83,Yes,3,5,3
+Shutdoown,decrease,decrease,-0.066,operate at a loss,5,No,3,3,2
+Shutdoown,remain the same,decrease,-0.5714,break even,9.43,Yes,2,5,3
+Shutdoown,remain the same,decrease,-0.2601,operate at a loss,6.94,Yes,5,4,2
+Shutdoown,increase,decrease,-0.4359,operate at a loss,6.54,No,1,3,1
+Shutdoown,decrease,remain the same,-0.4539,break even,2.78,Yes,4,5,2
+Shutdoown,decrease,decrease,-0.5191,operate at a loss,3.43,Yes,3,5,2
+Shutdoown,decrease,remain the same,-0.6186,break even,9.57,No,4,5,2
+Shutdoown,decrease,decrease,-0.5126,operate at a loss,2.81,No,2,2,1
+Shutdoown,decrease,decrease,-0.6092,break even,5.43,No,3,4,5
+Shutdoown,decrease,decrease,-0.4481,operate at a loss,6.79,Yes,4,3,3
+Shutdoown,decrease,decrease,-0.7656,operate at a loss,7.04,No,4,3,1
+Shutdoown,decrease,decrease,-0.5606,<5% profit,7.18,Yes,3,5,3
+Shutdoown,decrease,increase,-0.3165,operate at a loss,4.67,No,3,4,1
+Shutdoown,decrease,decrease,-0.8258,operate at a loss,3.36,Yes,1,4,4
+Shutdoown,decrease,decrease,-0.3238,operate at a loss,4.39,Yes,1,3,3
+Shutdoown,decrease,decrease,-0.5781,5%-10% profit,3.2,Yes,3,4,2
+Shutdoown,decrease,remain the same,-0.1877,operate at a loss,6.25,No,2,5,2
+Shutdoown,decrease,decrease,-0.4954,operate at a loss,7.24,Yes,1,5,2
+Shutdoown,decrease,decrease,-0.3166,operate at a loss,9.25,Yes,3,4,5
+Shutdoown,remain the same,decrease,-0.4209,operate at a loss,5.73,No,3,4,1
+Shutdoown,decrease,remain the same,-0.7961,operate at a loss,3.25,Yes,2,4,4
+Shutdoown,decrease,decrease,-0.4625,operate at a loss,7.05,Yes,1,4,4
+Shutdoown,remain the same,decrease,-0.4917,break even,6.81,Yes,2,4,1
+Shutdoown,decrease,remain the same,-0.4556,operate at a loss,4.52,Yes,3,2,2
+Shutdoown,decrease,increase,-0.4111,operate at a loss,1.88,Yes,5,4,3
+Shutdoown,decrease,decrease,-0.5154,operate at a loss,6.52,No,5,4,5
+Shutdoown,decrease,decrease,-0.523,operate at a loss,7.26,I do not know,5,5,4
+Shutdoown,decrease,remain the same,-0.9687,operate at a loss,4.41,No,5,4,1
+Shutdoown,decrease,decrease,-0.5426,operate at a loss,6.07,Yes,3,3,3
+Shutdoown,decrease,decrease,-0.2976,operate at a loss,4.45,No,3,4,2
+Shutdoown,decrease,decrease,-0.2871,operate at a loss,6.36,No,5,4,1
+Shutdoown,decrease,decrease,-0.2872,operate at a loss,4.77,No,3,5,2
+Shutdoown,decrease,decrease,-0.3671,operate at a loss,4.31,No,3,4,3
+Shutdoown,decrease,remain the same,-0.4997,operate at a loss,5.22,Yes,2,2,1
+Shutdoown,decrease,decrease,-0.6464,operate at a loss,4.43,No,4,5,3
+Shutdoown,decrease,decrease,-0.5863,operate at a loss,3.82,Yes,5,4,4
+Shutdoown,decrease,decrease,-0.5869,operate at a loss,4.37,Yes,3,5,2
+Shutdoown,increase,decrease,-0.3616,operate at a loss,4.98,Yes,3,4,3
+Shutdoown,decrease,decrease,-0.5083,operate at a loss,5.41,Yes,2,5,3
+Shutdoown,decrease,decrease,-0.3632,operate at a loss,8.06,No,2,3,3
+Shutdoown,decrease,decrease,-0.8892,<5% profit,2.28,Yes,2,5,5
+Shutdoown,decrease,decrease,-0.6301,<5% profit,4.6,No,1,5,3
+Shutdoown,remain the same,remain the same,-0.5967,operate at a loss,6.26,I do not know,1,4,5
+Shutdoown,decrease,decrease,-0.3109,operate at a loss,8.52,I do not know,3,4,4
+Shutdoown,remain the same,decrease,-0.7638,5%-10% profit,5.85,No,3,4,1
+Shutdoown,remain the same,decrease,-0.4639,5%-10% profit,4.97,No,5,1,3
+Shutdoown,decrease,decrease,-0.5766,5%-10% profit,4.38,Yes,1,3,1
+Shutdoown,remain the same,remain the same,-0.2223,operate at a loss,5.83,No,4,4,2
+Shutdoown,decrease,decrease,-0.4099,operate at a loss,6.98,No,3,2,1
+Shutdoown,decrease,decrease,-0.3002,5%-10% profit,4.63,Yes,3,4,2
+Shutdoown,remain the same,decrease,-0.637,5%-10% profit,5.33,No,3,3,1
+Shutdoown,decrease,decrease,-0.2827,operate at a loss,5.43,No,3,2,2
+Shutdoown,remain the same,decrease,-0.4194,operate at a loss,6.46,Yes,3,2,3
+Shutdoown,decrease,decrease,-0.3372,operate at a loss,7.22,No,4,5,2
+Shutdoown,decrease,decrease,-0.5599,operate at a loss,5.56,Yes,3,5,2
+Shutdoown,remain the same,decrease,-0.2264,operate at a loss,4.85,Yes,2,4,4
+Shutdoown,increase,remain the same,-0.6965,operate at a loss,7.79,Yes,4,4,4
+Shutdoown,decrease,decrease,-0.5705,<5% profit,5.33,Yes,1,2,2
+Shutdoown,decrease,decrease,-0.6923,break even,8.16,No,4,2,3
+Shutdoown,increase,increase,-0.624,operate at a loss,4.88,Yes,3,3,3
+Shutdoown,decrease,decrease,-0.3582,<5% profit,6.23,Yes,3,4,3
+Shutdoown,decrease,decrease,-0.5494,operate at a loss,1.91,No,3,2,5
+Shutdoown,decrease,decrease,-0.4534,operate at a loss,4.78,No,3,5,3
+Shutdoown,decrease,decrease,-0.0755,operate at a loss,4.96,I do not know,5,5,2
+Shutdoown,decrease,decrease,-0.3868,operate at a loss,3.48,Yes,3,5,2
+Shutdoown,remain the same,decrease,-0.4737,operate at a loss,2.93,I do not know,3,2,1
+Shutdoown,decrease,remain the same,-0.332,operate at a loss,6.9,No,5,2,1
+Shutdoown,decrease,decrease,-0.4838,operate at a loss,6.83,No,2,2,3
+Shutdoown,remain the same,decrease,-0.6082,<5% profit,2.4,No,5,5,3
+Shutdoown,decrease,remain the same,-0.2957,operate at a loss,5.85,No,1,5,1
+Shutdoown,decrease,decrease,-0.4771,break even,2.77,No,4,3,1
+Shutdoown,decrease,decrease,-0.3909,operate at a loss,2.9,I do not know,2,3,2
+Shutdoown,decrease,decrease,-0.4476,operate at a loss,6.05,No,1,4,1
+Shutdoown,decrease,remain the same,-0.4705,operate at a loss,3.63,No,1,4,3
+Shutdoown,decrease,decrease,-0.4409,operate at a loss,6.99,Yes,2,4,2
+Shutdoown,decrease,decrease,-0.7502,<5% profit,5.08,Yes,3,4,3
+Shutdoown,remain the same,decrease,-0.4122,operate at a loss,6.07,No,4,4,3
+Shutdoown,decrease,decrease,-0.6897,break even,3.95,Yes,5,4,1
+Shutdoown,decrease,decrease,-0.5061,operate at a loss,2.7,No,3,3,2
+Shutdoown,decrease,decrease,-0.5004,operate at a loss,6.83,Yes,2,4,2
+Shutdoown,decrease,decrease,-0.5558,operate at a loss,5.48,Yes,1,4,1
+Shutdoown,decrease,decrease,-0.76,operate at a loss,4.52,No,3,3,3
+Shutdoown,decrease,decrease,-0.1826,operate at a loss,5.14,No,2,2,1
+Shutdoown,decrease,decrease,-0.5285,5%-10% profit,7.65,Yes,3,2,4
+Shutdoown,decrease,decrease,-0.82,operate at a loss,3.6,Yes,3,4,2
+Shutdoown,decrease,increase,-0.6783,operate at a loss,3.5,No,2,3,4
+Shutdoown,decrease,decrease,-0.3447,5%-10% profit,3.76,No,3,5,1
+Shutdoown,decrease,decrease,-0.3759,operate at a loss,1.83,Yes,4,5,5
+Shutdoown,decrease,decrease,-0.6002,operate at a loss,6.64,No,1,4,1
+Shutdoown,remain the same,remain the same,-0.4216,>10% profit,5.38,No,4,2,2
+Shutdoown,remain the same,decrease,-0.3237,operate at a loss,5.41,No,3,3,1
+Shutdoown,decrease,decrease,-0.4278,>10% profit,4.91,Yes,4,4,2
+Shutdoown,remain the same,decrease,-0.6171,operate at a loss,3.98,Yes,4,1,2
+Shutdoown,decrease,decrease,-0.3708,operate at a loss,3.35,No,3,1,2
+Shutdoown,decrease,decrease,-0.6114,<5% profit,6.7,No,2,4,2
+Shutdoown,decrease,decrease,-0.5117,operate at a loss,2.15,I do not know,3,5,2
+Shutdoown,decrease,decrease,-0.3638,<5% profit,5.88,Yes,5,4,2
+Shutdoown,decrease,decrease,-0.6826,operate at a loss,3.41,No,2,4,3
+Shutdoown,remain the same,decrease,-0.6246,operate at a loss,5.56,Yes,5,2,1
+Shutdoown,decrease,remain the same,-0.6435,operate at a loss,3.52,No,3,3,3
+Shutdoown,remain the same,decrease,-0.5647,operate at a loss,3.95,Yes,3,2,2
+Shutdoown,decrease,decrease,-0.8063,5%-10% profit,8.54,Yes,5,3,2
+Shutdoown,decrease,decrease,-0.4688,>10% profit,6.34,Yes,3,5,2
+Shutdoown,remain the same,decrease,-0.2903,operate at a loss,0.71,No,2,4,2
+Shutdoown,decrease,decrease,-0.4809,operate at a loss,5.25,No,1,3,4
+Shutdoown,decrease,decrease,-0.4317,operate at a loss,4.1,No,3,5,1
+Shutdoown,decrease,decrease,-0.5834,5%-10% profit,2.73,No,1,5,5
+Shutdoown,decrease,decrease,-0.6592,<5% profit,5.42,Yes,3,2,1
+Shutdoown,remain the same,decrease,-0.5185,operate at a loss,5.26,No,3,5,2
+Shutdoown,remain the same,decrease,-0.6482,operate at a loss,4.34,No,3,5,2
+Shutdoown,decrease,decrease,-0.6961,5%-10% profit,8.95,No,1,3,1
+Shutdoown,decrease,decrease,-0.5221,break even,0.5,Yes,1,4,2
+Shutdoown,decrease,remain the same,-0.6207,operate at a loss,6.68,Yes,4,4,5
+Shutdoown,remain the same,decrease,-0.675,operate at a loss,4.42,Yes,3,3,1
+Shutdoown,decrease,increase,-0.6816,operate at a loss,6.31,No,2,3,1
+Shutdoown,decrease,decrease,-0.2759,<5% profit,4.09,No,3,3,4
+Shutdoown,decrease,remain the same,-0.3774,operate at a loss,3.81,Yes,4,5,2
+Shutdoown,decrease,remain the same,-0.5233,break even,1.58,No,4,1,2
+Shutdoown,decrease,decrease,-0.6908,operate at a loss,4.58,No,2,1,1
+Shutdoown,decrease,decrease,-0.4935,operate at a loss,9.96,No,4,5,2
+Shutdoown,decrease,decrease,-0.4467,operate at a loss,6.98,Yes,4,3,2
+Shutdoown,decrease,increase,-0.7866,break even,8.35,Yes,4,4,2
+Shutdoown,decrease,decrease,-0.6379,operate at a loss,6.83,No,4,4,2
+Shutdoown,decrease,decrease,-0.6118,operate at a loss,7.29,I do not know,3,5,1
+Shutdoown,increase,decrease,-0.4504,operate at a loss,6.81,Yes,4,3,2
