@@ -3,7 +3,7 @@ title: "Shutting Down Some Restaurants during the COVID-19 Pandemic Negatively A
 author: "Jia Jia Ji"
 thanks: "Code and data are available at: https://github.com/jiaj6/effect_of_shut-downs_on_restaurant_analysis."
 date: "`r format(Sys.time(), '%d %B %Y')`"
-abstract: "To analyze the effect of COVID shut-downs on restaurants, we performed a randomized controlled trial. We took a random sample of 1000 restaurants in Greater Toronto Area, and randomly assigned them to a control group where all restaurants remained open and a treatment group where all restaurants were shut down. We designed an online survey and simulated the responses to compare the differences between the restaurants in 2 groups. We found that the shut-downs on restaurants was detrimental for their business management and financial conditions, specifically, more shutdown restaurants operated at a loss and they had a higher sales drop on average; meanwhile, more of them felt unconfident in the operations of businesses than the open restaurants. These findings were significant for the Ontario government to understand the effect of shut-downs on restaurants and take more effective measures to help these impacted restaurants."
+abstract: "To analyze the effect of COVID shut-downs on restaurants, we performed a randomized controlled trial. We took a random sample of 1000 restaurants in Greater Toronto Area, and randomly assigned them to a control group where all restaurants remained open and a treatment group where all restaurants were shut down. We designed an online survey and simulated the responses to compare the differences between the restaurants in 2 groups. We found that shutting down some restaurants was detrimental for their business management and financial conditions, specifically, more shutdown restaurants operated at a loss and they had a higher sales drop on average; meanwhile, more of them felt unconfident in the operations of businesses than the open restaurants. These findings were significant for the Ontario government to understand the effect of shut-downs on restaurants and take more effective measures to help these impacted restaurants."
 output: 
    bookdown::pdf_document2:
 toc: FALSE
@@ -25,7 +25,7 @@ bibliography: references.bib
 ### install and load the packages ###
 #install.packages('tidyverse')
 #install.packages('ggplot2')
-library(tidyverse)
+library(tidyverse) 
 library(ggplot2)
 
 ### R and R packages citations ###
@@ -91,11 +91,11 @@ We combined the datasets for the control group and treatment group. This simulat
 
 
 ```{r load data, echo = FALSE, results = FALSE, message = FALSE, warning = FALSE}
-simulated_data <- read_csv('Inputs/raw_data/raw_data.csv')
+simulated_data <- read_csv('Inputs/raw_data/raw_data.csv') 
 ```
 
 
-The variables Business Hours Change and Employees Change were both nominal, categorical variables with 3 different levels. \@ref(fig:plot1) showed that the proportion of shutdown restaurants with decreased daily business hours was 74%, which was 25% more than that of open restaurants. Similarly, \@ref(fig:plot2) illustrated that the proportion of shutdown restaurants having fewer employees was 83%, which was around 1.6 times as much as that of open restaurants. So, the COVID shut-downs on some restaurants were seemed to be detrimental for the business management regarding the business hours and number of staff. 
+The variables Business Hours Change and Employees Change were both nominal, categorical variables with 3 different levels. Figure \@ref(fig:plot1) showed that the proportion of shutdown restaurants with decreased daily business hours was 74%, which was 25% more than that of open restaurants. Similarly, Figure \@ref(fig:plot2) illustrated that the proportion of shutdown restaurants having fewer employees was 83%, which was around 1.6 times as much as that of open restaurants. So, the COVID shut-downs on some restaurants were seemed to be detrimental for the business management regarding the business hours and number of staff. 
 
 
 ```{r plot1, echo = FALSE, message = FALSE, warning = FALSE, fig.cap ='The bar chart of change in daily business hours for the restaurants in control group and treatment group', fig.width = 6, fig.height = 4}
@@ -156,7 +156,7 @@ control group and treatment group') +
 ```
 
 
-The variable Monthly Sales Change was continuous and normally distributed. From \@ref(fig:plot3), we could see that most bars for the treatment group were distributed within the negative values, while the bars for control group were more evenly distributed. This pattern showed that more shutdown restaurants had decreased monthly sales. Besides, \@ref(fig:plot4) indicated that on average, the shutdown restaurants (50% average sales drop) had a much higher drop for the monthly sales compared to the open ones (25% average sales drop). Then, in terms of the Profitability (which was a nominal variable with 5 levels), \@ref(fig:plot5) showed that the proportion of shutdown restaurants operating at a loss was 69%, which was 1.7 times as much as that of the open restaurants. Meanwhile, much fewer shutdown restaurants made a profit compared to the open ones. Hence, shutting down some restaurants tended to have a more negative effect on their financial conditions. 
+The variable Monthly Sales Change was continuous and normally distributed. From Figure \@ref(fig:plot3), we could see that most bars for the treatment group were distributed within the negative values, while the bars for control group were more evenly distributed. This pattern showed that more shutdown restaurants had decreased monthly sales. Besides, Figure \@ref(fig:plot4) indicated that on average, the shutdown restaurants (50% average sales drop) had a much higher drop for the monthly sales compared to the open ones (25% average sales drop). Then, in terms of the Profitability (which was a nominal variable with 5 levels), Figure \@ref(fig:plot5) showed that the proportion of shutdown restaurants operating at a loss was 69%, which was 1.7 times as much as that of the open restaurants. Meanwhile, much fewer shutdown restaurants made a profit compared to the open ones. Hence, shutting down some restaurants tended to have a more negative effect on their financial conditions. 
 
 ```{r plot3, echo = FALSE, message = FALSE, warning = FALSE, fig.cap ='The histogram of change in average monthly sales for restaurants in control group and treatment group', fig.width = 6, fig.height = 4}
 # 3. histogram of avg_monthly_sales_change for 2 groups 
@@ -188,7 +188,7 @@ control group and treatment group') +
   theme_minimal()
 ```
 
-```{r plot5, echo = FALSE, message = FALSE, warning = FALSE, fig.cap ='The bar chart of profitability for restaurants in control group and treatment group', fig.width = 6, fig.height = 4}
+```{r plot5, echo = FALSE, message = FALSE, warning = FALSE, fig.cap ='The bar chart of profitability for restaurants in control group and treatment group', fig.width = 8, fig.height = 4}
 # 4. bar chart of profitability for 2 groups
 # for each group, count how many restaurants in each level 
 profit <- simulated_data %>%
@@ -217,7 +217,7 @@ profit %>%
  
  
  
-Furthermore, \@ref(fig:plot6) showed that the proportion of shutdown restaurants that had received the COVID-related government subsidies was only 48%, which was 27% less than that of open restaurants. Also, as \@ref(fig:plot7) shown, for the restaurants that had received the subsidies, fewer shutdown restaurants thought that these subsidies were either somewhat helpful or very helpful (17% for 4, and 11% for 5) than the open restaurants, meanwhile, most of them had neutral opinions (41% for 3) on the helpfulness of subsidies. So, the shut-downs on restaurants made more of them unable to get support from the government, and more of them felt that the subsidies did not really help the operations of businesses. 
+Furthermore, Figure \@ref(fig:plot6) showed that the proportion of shutdown restaurants that had received the COVID-related government subsidies was only 48%, which was 27% less than that of open restaurants. Also, as Figure \@ref(fig:plot7) shown, for the restaurants that had received the subsidies, fewer shutdown restaurants thought that these subsidies were either somewhat helpful or very helpful (17% for 4, and 11% for 5) than the open restaurants, meanwhile, most of them had neutral opinions (41% for 3) on the helpfulness of subsidies. So, the shut-downs on restaurants made more of them unable to get support from the government, and more of them felt that the subsidies did not really help the operations of businesses. 
 
 ```{r plot6, echo = FALSE, message = FALSE, warning = FALSE, fig.cap ='The bar chart of whether a restaurant has received COVID-related government subsidies for control group and treatment group', fig.width = 6, fig.height = 4}
 # 5. bar chart of government subsidy for 2 groups: same process as making the bar chart for business_hrs_change
@@ -272,7 +272,7 @@ helpfulness %>%
 
 
 
-The variables Effect on Business and Confidence were both ordinal, categorical variables. \@ref(fig:plot8) showed that the proportion of shutdown restaurants thinking that the pandemic either significantly or somewhat affected their businesses was around 63% (34% for 4, and 29% for 5), which was 16% more than that of open restaurants (totally 47% for 4 and 5). Meanwhile, \@ref(fig:plot9) revealed that the proportion of shutdown restaurants that were either not confident at all or somewhat unconfident in continuing operating their businesses was 60% (24% for 1, and 36% for 2), which was twice as much as that of open restaurants (totally 31% for 1 and 2). So, the shutdown restaurants tended to be more strongly impacted by the pandemic and lose more confidence in the operations of their businesses. 
+The variables Effect on Business and Confidence were both ordinal, categorical variables. Figure \@ref(fig:plot8) showed that the proportion of shutdown restaurants thinking that the pandemic either significantly or somewhat affected their businesses was around 63% (34% for 4, and 29% for 5), which was 16% more than that of open restaurants (totally 47% for 4 and 5). Meanwhile, Figure \@ref(fig:plot9) revealed that the proportion of shutdown restaurants that were either not confident at all or somewhat unconfident in continuing operating their businesses was 60% (24% for 1, and 36% for 2), which was twice as much as that of open restaurants (totally 31% for 1 and 2). So, the shutdown restaurants tended to be more strongly impacted by the pandemic and lose more confidence in the operations of their businesses. 
 
 ```{r plot8, echo = FALSE, message = FALSE, warning = FALSE, fig.cap ='The bar chart of how much the pandemic affects the restaurant businesses for control group and treatment group', fig.width = 6, fig.height = 4}
 # 7. bar chart of effect_on_business: same process as for helpfulness_of_subsidy
@@ -382,7 +382,7 @@ Also, the screenshots of the survey:
 
 ![The statement of consent and respondent privacy protection of the survey](survey/intro2.png)
 
-![Questions 1-2 of the survey](survey/Q1-2.png)
+![Questions 1-2 of the survey](survey/Q1-2.png)  
 
 ![Questions 3-4 of the survey](survey/Q3-4.png)
 
